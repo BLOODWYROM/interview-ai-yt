@@ -1,3 +1,4 @@
+// Database config
 const mongoose = require("mongoose")
 
 
